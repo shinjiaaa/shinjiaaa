@@ -4,3 +4,4 @@
 
 
 <img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
+https://img.shields.io/badge/{badge text}-{color HEX code}?style={badge style}&logo={icon name}&logoColor={logo color HEX code}

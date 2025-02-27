@@ -13,9 +13,9 @@ int main() {
     }
 
     if(A==B){
-        cout << "1";
+        cout << " 1";
     }
     else {
-        cout << "0";
+        cout << " 0";
     }
 }

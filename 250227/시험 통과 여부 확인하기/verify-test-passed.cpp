@@ -1,9 +1,15 @@
-int N;
-cin >> N;
+#include <iostream>
+using namespace std;
 
-if(N>=80){
-    cout << "pass";
+int main() {
+    int N;
+    cin >> N;
+
+    if(N>=80){
+        cout << "pass";
+    }
+    else {
+        cout << 80-N << " more score";
+    }
 }
-else {
-    cout << 80-N << " more score";
-}
+

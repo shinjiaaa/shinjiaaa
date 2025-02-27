@@ -7,7 +7,9 @@ int main() {
     char c = 'C';
 
     cout << a;
-    cout << '->';
+    cout << "->";
     cout << b;
-    cout << '->' << c;
+    cout << "->" << c;
+
+    return 0;
 }

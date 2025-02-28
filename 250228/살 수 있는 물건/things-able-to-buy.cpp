@@ -6,13 +6,13 @@ int main() {
     cin >> N;
 
     if(N>=3000){
-        cout << "book";
+        cout << "book" << endl;
     }
     else if(0<N && N<3000){
-        cout << "mask";
+        cout << "mask" << endl;
     }
     else {
-        cout << "no";
+        cout << "no" << endl;
     }
     return 0;
 }

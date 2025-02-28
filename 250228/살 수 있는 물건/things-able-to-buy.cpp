@@ -8,7 +8,7 @@ int main() {
     if(N>=3000){
         cout << "book";
     }
-    else if(0<N<3000){
+    else if(0<N && N<3000){
         cout << "mask";
     }
     else if(N==0){

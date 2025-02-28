@@ -5,7 +5,7 @@ int main() {
     int N;
     cin >> N;
 
-    for (int i = N; i < 5; i++) {
+    for (int i = 1; i < 5; i++) {
         cout << N*i << " ";
     }
     return 0;

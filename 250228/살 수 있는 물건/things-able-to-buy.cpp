@@ -11,7 +11,7 @@ int main() {
     else if(0<N && N<3000){
         cout << "mask";
     }
-    else if(N==0){
+    else {
         cout << "no";
     }
     return 0;

@@ -14,4 +14,5 @@ int main() {
     else if(N==0){
         cout << "no";
     }
+    return 0;
 }

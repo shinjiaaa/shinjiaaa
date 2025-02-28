@@ -2,13 +2,13 @@
 using namespace std;
 
 int main() {
-    int N;
-    cin >> N;
+    int n;
+    cin >> n;
 
-    if(N>=3000){
+    if(n>=3000){
         cout << "book" << endl;
     }
-    else if(0<N && N<3000){
+    else if(0<n && n<3000){
         cout << "mask" << endl;
     }
     else {

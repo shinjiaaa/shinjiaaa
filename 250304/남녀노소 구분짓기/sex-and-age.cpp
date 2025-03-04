@@ -6,7 +6,7 @@ int main() {
     cin >> gender;
     cin >> age;
 
-    if (gender == "0") {
+    if (gender == 0) {
         if (age >= 19) {
             cout << "MAN";
         }
@@ -15,7 +15,7 @@ int main() {
         }
     }
 
-    else if (gender == "1") {
+    if (gender == 1) {
         if (age >= 19) {
             cout << "WOMAN";
         }

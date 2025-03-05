@@ -16,10 +16,10 @@ int main() {
     while(A <= B) {
         cout << A << " ";
         if(oddNum(A)) {
-            i *= 2;
+            A *= 2;
         }
         else if(evenNum(A)) {
-            i += 3;
+            A += 3;
         }
     }
 

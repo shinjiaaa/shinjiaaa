@@ -8,4 +8,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjiaaa&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shinjiaaa&show_icons=true&theme=radical)

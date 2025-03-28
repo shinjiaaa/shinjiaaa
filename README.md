@@ -4,3 +4,7 @@
 - Lab: [SEALAB](http://selab.gnu.ac.kr), undergraduate research student
 
 - Email: ssshinjia@gmail.com
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjiaaa&layout=compact)

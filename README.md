@@ -32,8 +32,6 @@
 
 **2025**
 - KCC(한국정보과학회) Post paper - Neo4j 기반 소프트웨어 추적성 질의 시스템 개발 및 정량적 평가
-<img width="2414" height="413" alt="image" src="https://github.com/user-attachments/assets/24e408e8-a6e0-4f09-b99b-233464fc2df4" />
-
 #
 
 ### Languges

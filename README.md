@@ -1,7 +1,7 @@
 ### Introduce
-- Major: Aerospace Engineering, Aerospace Systems Engineering 23
-
 - Email: ssshinjia@gmail.com
+
+- Location: SEALAB (http://selab.gnu.ac.kr/) @ Aerospace Engineering, Aerospace Systems Engineering 23.
 
 #
 

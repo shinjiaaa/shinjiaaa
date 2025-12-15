@@ -31,7 +31,7 @@
 - IoT-X 융합 메이커톤 3등 - ML 기반 음성 인식을 이용한 IoT 스마트 제어 조명 장치 설계 및 제작
 
 **2025**
-- KCC Post Paper - Neo4j 기반 소프트웨어 추적성 질의 시스템 개발 및 정량적 평가
+- KCC Post Paper - Development and Quantitative Evaluation of a Traceability Query System Using Neo4j
 - KSC Post Paper - Application of the LIME Technique for Real-Time Drone Collision Risk Prediction
 #
 

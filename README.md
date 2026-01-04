@@ -31,6 +31,7 @@
 - IoT-X 융합 메이커톤 3등 - ML 기반 음성 인식을 이용한 IoT 스마트 제어 조명 장치 설계 및 제작
 
 **2025**
+- 리모트 인턴십 6기 - 미래내일 일경험 사업 (W. CJ올리브네트웍스, 퍼브, 한국경제신문)
 - KCC Post Paper - Development and Quantitative Evaluation of a Traceability Query System Using Neo4j
 - KSC Post Paper - Application of the LIME Technique for Real-Time Drone Collision Risk Prediction
 #

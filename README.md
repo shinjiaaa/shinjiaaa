@@ -32,8 +32,11 @@
 
 **2025**
 - 리모트 인턴십 6기 - 미래내일 일경험 사업 (W. CJ올리브네트웍스, 퍼브, 한국경제신문)
-- KCC Post Paper - Development and Quantitative Evaluation of a Traceability Query System Using Neo4j
-- KSC Post Paper - Application of the LIME Technique for Real-Time Drone Collision Risk Prediction
+- KCC 2025 Post Paper - Development and Quantitative Evaluation of a Traceability Query System Using Neo4j
+- KSC 2025 Post Paper - Application of the LIME Technique for Real-Time Drone Collision Risk Prediction
+
+**2026**
+- KCSE 2026 Oral paper - A Grad-CAM and LLM-Based Explainable System for Collision Risk Perception
 #
 
 ### Languges

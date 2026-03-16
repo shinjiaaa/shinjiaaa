@@ -36,7 +36,9 @@
 - KSC 2025 Post Paper - Application of the LIME Technique for Real-Time Drone Collision Risk Prediction
 
 **2026**
-- KCSE 2026 Oral paper - A Grad-CAM and LLM-Based Explainable System for Collision Risk Perception
+- KCSE 2026 Oral Paper - A Grad-CAM and LLM-Based Explainable System for Collision Risk Perception
+- DASC 26 Oral Paper - An Automated Early Warning System for Detecting Leading Resk Signals Before Vision-based Real-Time Collision Avoidance Across Diverse Conditions
+- ISE (ICST 2026 Workshop) - Early Warning Signals of Reliability Degradation in Deployed Object Detection Models via XAI
 #
 
 ### Languges

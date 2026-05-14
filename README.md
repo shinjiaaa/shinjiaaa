@@ -37,8 +37,9 @@
 
 **2026**
 - KCSE 2026 Oral Paper - A Grad-CAM and LLM-Based Explainable System for Collision Risk Perception
-- DASC 26 Oral Paper - An Automated Early Warning System for Detecting Leading Resk Signals Before Vision-based Real-Time Collision Avoidance Across Diverse Conditions
-- ISE (ICST 2026 Workshop) - Early Warning Signals of Reliability Degradation in Deployed Object Detection Models via XAI
+- DASC 2026 Oral Paper - An Automated Early Warning System for Detecting Leading Resk Signals Before Vision-based Real-Time Collision Avoidance Across Diverse Conditions
+- ISE (ICST 2026 Workshop) Oral Paper - Early Warning Signals of Reliability Degradation in Deployed Object Detection Models via XAI
+- KCC 2026 Oral Paper - In Object-Detection of Autonomous Flight Software, Failure Boundary Exploration Using Counterfactual Explanations
 #
 
 ### Languges
